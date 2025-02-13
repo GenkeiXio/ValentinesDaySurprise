@@ -115,7 +115,7 @@ body {
 }
 
 .main-content p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #333;
     margin-bottom: 2rem;
     animation: fadeIn 2s;
@@ -173,7 +173,7 @@ body {
 }
 
 .gif_container img {
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
     border-radius: 10px;
     margin-top: 1rem;
